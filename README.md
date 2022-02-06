@@ -1,6 +1,6 @@
 # Hi there, I am Weclont😃 
 
-**A developer without extensive development experience and a very konjac OIer ( **
+**A developer without extensive development experience and a very konjac OIer (
 
 😅 **My Github Stats** :  （属实拉了）
  
