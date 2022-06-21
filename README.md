@@ -4,7 +4,7 @@
 
 📫 **联系我** :
   - **Telegram** : [@weclont](https://t.me/weclont)
-  - **E-mail** : weclont@qq.com
+  - **E-mail** : weclont@qq.com | ee780835@gmail.com
   - **Discord** : weclont#5287
 
 ✨ **Blog** : [https://blog.fwder.cn](https://blog.fwder.cn)
@@ -21,7 +21,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Weclont?template=classic&isocalendar=1&isocalendar.duration=full-year)
 
-<img src="https://api.xecades.xyz/api?&qq=1399128236&luogu=weclont&&img=1&quote=%E6%AD%A4%E7%94%9F%E6%97%A0%E6%82%94%E5%85%A5%E4%B8%9C%E6%96%B9%EF%BC%8C%E6%9D%A5%E4%B8%96%E6%84%BF%E7%94%9F%E5%B9%BB%E6%83%B3%E4%B9%A1" alt>
+<img src="https://api.xecades.xyz/api?&qq=1145141919810&img=1&quote=%E6%AD%A4%E7%94%9F%E6%97%A0%E6%82%94%E5%85%A5%E4%B8%9C%E6%96%B9%EF%BC%8C%E6%9D%A5%E4%B8%96%E6%84%BF%E7%94%9F%E5%B9%BB%E6%83%B3%E4%B9%A1" alt>
 
  <img src="https://api.fwder.cn/pic" alt>
 
