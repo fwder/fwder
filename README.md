@@ -12,12 +12,12 @@
 **Github Stats** :
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=weclont&show_icons=true&theme=graywhite" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=weclont&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 </a>
 
- [![Weclont's github activity graph](https://activity-graph.herokuapp.com/graph?username=weclont&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Weclont&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Weclont" align = "center"/></p>
+
+ [![Weclont's github activity graph](https://activity-graph.herokuapp.com/graph?username=weclont&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Metrics](https://metrics.lecoq.io/Weclont?template=classic&isocalendar=1&isocalendar.duration=full-year)
 
